@@ -29,6 +29,17 @@ Free awesome learning resources for IBM i! Are we missing a link? Make a PR! App
 
 </details>
 
+## SQL 😎
+
+<details>
+  <summary>Expand!</summary>
+
+### Links
+
+### Videos
+
+</details>
+
 ## CL 🧐
 
 <details>
