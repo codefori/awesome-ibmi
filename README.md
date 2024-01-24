@@ -65,6 +65,10 @@ No links behind paywalls, signups, or on vendor frameworks (unless they're open 
 
 ### Videos
 
+* Andy Youens / FormaServe
+   * [BASH on IBM i](https://www.youtube.com/playlist?list=PLohFZaDbDd2Pn7e4xMCsl5TQakkVUow8U)
+   * [Open Source](https://www.youtube.com/playlist?list=PLohFZaDbDd2Pj6A6Uaz_pfKGP6zmJohJ2)
+
 </details>
 
 ## Node.js (on IBM i) 🆒
