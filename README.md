@@ -41,7 +41,7 @@ No links behind paywalls, signups, or on vendor frameworks (unless they're open 
   <summary>Expand!</summary>
 
 ### Links
-
+* Scott Forstie Gists - Lots of SQL Services Examples: https://gist.github.com/forstie
 ### Videos
 
 </details>
