@@ -1,6 +1,8 @@
 # ⭐️ awesome-ibmi ⭐️
 
-Free awesome learning resources for IBM i! Are we missing a link? Make a PR! Append links to the bottom of the lists. No links behind paywalls, signups, or on vendor frameworks.
+Free awesome learning resources for IBM i! Are we missing a link? Make a PR! Append links to the bottom of the lists. 
+
+No links behind paywalls, signups, or on vendor frameworks.
 
 ## RPGLE 👩‍💻
 
