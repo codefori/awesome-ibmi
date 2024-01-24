@@ -17,7 +17,7 @@ No links behind paywalls, signups, or on vendor frameworks (unless they're open 
 * Starting off with Embedded SQL: https://github.com/worksofliam/blog/issues/14
 * Using `printf` (from free-format): https://github.com/worksofliam/blog/issues/15
 * Using RPG to make your web APIs: https://github.com/worksofliam/blog/issues/42
-* Many RPG/SQL Examples http://rpgpgm.com
+* Many RPG/SQL Examples: http://rpgpgm.com
 * ILEastic tutorial template
   * [What is ILEastic?](https://github.com/sitemule/ILEastic)
   * [Template](https://github.com/worksofliam/ileastic-webapi)
