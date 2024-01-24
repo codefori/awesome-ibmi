@@ -67,6 +67,6 @@ Free awesome learning resources for IBM i! Are we missing a link? Make a PR! App
 
 ### Links
 
-</details>
-
 ### Videos
+
+</details>
