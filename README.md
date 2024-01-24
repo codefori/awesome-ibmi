@@ -2,7 +2,7 @@
 
 Free awesome learning resources for IBM i! Are we missing a link? Make a PR! Append links to the bottom of the lists. 
 
-No links behind paywalls, signups, or on vendor frameworks.
+No links behind paywalls, signups, or on vendor frameworks (unless they're open source).
 
 ## RPGLE 👩‍💻
 
